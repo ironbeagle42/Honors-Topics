@@ -1,0 +1,1 @@
+I learned how to navigate through files in terminal. I also learned that terminal needs permission to access files, and can't do it on its own.
